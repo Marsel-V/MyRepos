@@ -13,6 +13,8 @@ namespace TestForGit
             // Catch me if you can
             // This comment has been added to check git
             Console.WriteLine("Hello, World!!!");
+
+            // Another test
         }
     }
 }
