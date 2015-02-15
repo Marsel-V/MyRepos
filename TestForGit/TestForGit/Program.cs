@@ -11,7 +11,7 @@ namespace TestForGit
         static void Main(string[] args)
         {
             // Catch me if you can
-            // This comment add to check git
+            // This comment has been added to check git
         }
     }
 }
